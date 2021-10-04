@@ -1,1 +1,3 @@
 # ShannonEntropy
+
+ConTest <filename>
